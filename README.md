@@ -6,6 +6,8 @@ Caso gostem podem utilizar sem moderação, caso queiram contribuir fiquem a von
 
 Tema inspirado na imagem disponibilizada pelo [https://dribbble.com/shots/1838291/attachments/306916?mode=media] e utilizado para desenvolver o projeto Max Gerenciador de processos de desenvolvimento que logo estará disponivel para uso livre
 
+![alt text](https://github.com/matheuspereiradev/TemplateMAX/blob/main/print.jpg?raw=true)
+
 ### `yarn start`
 
 Runs the app in the development mode.\
